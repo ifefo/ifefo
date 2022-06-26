@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ifefo/ifefo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+fefo....;&center=true&size=30">
 
-Here are some ideas to get you started:
+<p align="center"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ifefo.ifefo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ifefo&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
+
+- 📫 Contactame en discord: `fefo#1499`.
+- ⚡ Trabajando en varios projectos
+
+<p align="center">
+  <a href="https://github.com/ifefo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ifefo&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=ifefo&theme=react-dark&bg_color=20232a&hide_border=true" width="50%"/>
+  </a>
+</p>
