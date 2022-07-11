@@ -1,7 +1,7 @@
 
 <a>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+fefo....;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!+👋;Yo+soy+fefo....;&center=true&size=30">
 
 <p align="center"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ifefo.ifefo">
 
