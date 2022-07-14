@@ -8,7 +8,6 @@
 <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ifefo&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
 - 📫 Contactame en discord: `fefo#1499`.
-- ⚡ Trabajando en varios projectos
 
 <p align="center">
   <a href="https://github.com/ifefo">
