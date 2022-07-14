@@ -1,7 +1,7 @@
 
 <a>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!+👋;Yo+soy+fefo....;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!+👋;Soy+fefo....;&center=true&size=30">
 
 <p align="center"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ifefo.ifefo">
 
@@ -12,6 +12,5 @@
 <p align="center">
   <a href="https://github.com/ifefo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ifefo&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=ifefo&theme=react-dark&bg_color=20232a&hide_border=true" width="50%"/>
   </a>
 </p>
