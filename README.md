@@ -11,6 +11,5 @@
 
 <p align="center">
   <a href="https://github.com/ifefo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ifefo&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
 </p>
